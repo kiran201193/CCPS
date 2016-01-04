@@ -1,0 +1,26 @@
+{
+  "name": "ccps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiran201193/CCPS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiran201193/CCPS/issues"
+  },
+  "homepage": "https://github.com/kiran201193/CCPS#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4",
+    "node-mysql": "^0.4.2"
+  }
+}
